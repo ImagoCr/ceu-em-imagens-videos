@@ -1,1 +1,117 @@
-{"fps":24,"lang":"pt-BR","lead":12,"lines":[],"pause":0.4,"provider":"kokoro","tail":30,"voice":{"lang":"pt-BR","name":"pf_dora","speed":1}}
+{
+  "fps": 24,
+  "lang": "pt",
+  "lead": 12,
+  "tail": 30,
+  "pause": 0.6,
+  "provider": "kokoro",
+  "voice": {
+    "lang": "pt-BR",
+    "name": "pf_dora",
+    "speed": 0.85
+  },
+  "aliases": {
+    "Leo": [
+      "lo",
+      "léo"
+    ]
+  },
+  "lines": [
+    {
+      "id": "abertura",
+      "text": "Você sabe como a Missa começa? Vem comigo, que eu te mostro."
+    },
+    {
+      "id": "entrada",
+      "text": "Enquanto todos cantam o canto de entrada,",
+      "pauseAfter": 0.3
+    },
+    {
+      "id": "altar",
+      "text": "o padre chega ao altar com o Leo, que é coroinha."
+    },
+    {
+      "id": "padre_sinal",
+      "text": "Em nome do Pai, e do Filho, e do Espírito Santo.",
+      "voice": {
+        "lang": "pt-BR",
+        "name": "pm_alex",
+        "speed": 0.85
+      },
+      "pauseAfter": 0.3
+    },
+    {
+      "id": "amem",
+      "text": "Todos respondem juntos: Amém!",
+      "pauseAfter": 0.7
+    },
+    {
+      "id": "todos",
+      "text": "Nessa hora, cada um faz o sinal da cruz, igualzinho ao padre."
+    },
+    {
+      "id": "testa",
+      "text": "Primeiro, levamos a mão até a testa, quando dizemos: Pai."
+    },
+    {
+      "id": "peito",
+      "text": "Depois, ela desce até o peito, no Filho."
+    },
+    {
+      "id": "ombros",
+      "text": "Por fim, ela passa de um ombro para o outro, primeiro o esquerdo e depois o direito, no Espírito Santo.",
+      "pauseAfter": 0.7
+    },
+    {
+      "id": "um_deus",
+      "text": "Deus é um só, em três Pessoas:",
+      "pauseAfter": 0.3
+    },
+    {
+      "id": "tres",
+      "text": "Pai, Filho e Espírito Santo."
+    },
+    {
+      "id": "sentido_amem",
+      "text": "Sabe o que quer dizer Amém? Quer dizer: assim seja.",
+      "pauseAfter": 0.8
+    },
+    {
+      "id": "saudacao",
+      "text": "Logo depois, o padre abre os braços e cumprimenta todo mundo."
+    },
+    {
+      "id": "padre_graca",
+      "text": "A graça de Nosso Senhor Jesus Cristo, o amor do Pai e a comunhão do Espírito Santo estejam convosco.",
+      "voice": {
+        "lang": "pt-BR",
+        "name": "pm_alex",
+        "speed": 0.82
+      },
+      "pauseAfter": 0.6
+    },
+    {
+      "id": "desejo",
+      "text": "Ele está desejando que Deus esteja com todos nós, durante a Missa inteira."
+    },
+    {
+      "id": "convite",
+      "text": "Agora é a sua vez.",
+      "pauseAfter": 0.3
+    },
+    {
+      "id": "convite2",
+      "text": "Vamos fazer juntos o sinal da cruz!",
+      "pauseAfter": 0.6
+    },
+    {
+      "id": "final",
+      "text": "Em nome do Pai, e do Filho, e do Espírito Santo. Amém.",
+      "voice": {
+        "lang": "pt-BR",
+        "name": "pf_dora",
+        "speed": 0.75
+      }
+    }
+  ]
+}
