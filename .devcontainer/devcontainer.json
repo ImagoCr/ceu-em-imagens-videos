@@ -1,0 +1,1 @@
+{"customizations":{"vscode":{"extensions":[]}},"features":{"ghcr.io/devcontainers/features/python:1":{"version":"3.11"}},"image":"mcr.microsoft.com/devcontainers/javascript-node:20","name":"ceu-em-imagens-videos","postCreateCommand":"sudo apt-get update && sudo apt-get install -y ffmpeg && npx playwright-core install chromium"}
