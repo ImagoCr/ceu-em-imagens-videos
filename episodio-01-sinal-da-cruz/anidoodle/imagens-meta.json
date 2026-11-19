@@ -1,0 +1,102 @@
+{
+ "altar_frente": {
+  "w": 1420,
+  "h": 988,
+  "foot": 709.0
+ },
+ "leo_costas": {
+  "w": 573,
+  "h": 1494,
+  "foot": 284.5
+ },
+ "leo_em_pe": {
+  "w": 652,
+  "h": 1508,
+  "foot": 327.5
+ },
+ "leo_testa": {
+  "w": 681,
+  "h": 1509,
+  "foot": 351.5
+ },
+ "livro_aberto": {
+  "w": 1171,
+  "h": 1243,
+  "foot": 583.5
+ },
+ "livro_fechado": {
+  "w": 975,
+  "h": 1276,
+  "foot": 488.0
+ },
+ "menina_convidando": {
+  "w": 896,
+  "h": 1488,
+  "foot": 448.0
+ },
+ "menina_em_pe": {
+  "w": 896,
+  "h": 1480,
+  "foot": 446.5
+ },
+ "menina_ombro_direito": {
+  "w": 884,
+  "h": 1519,
+  "foot": 432.0
+ },
+ "menina_ombro_esquerdo": {
+  "w": 888,
+  "h": 1524,
+  "foot": 448.5
+ },
+ "menina_peito": {
+  "w": 769,
+  "h": 1499,
+  "foot": 382.0
+ },
+ "menina_rezando": {
+  "w": 896,
+  "h": 1486,
+  "foot": 446.5
+ },
+ "menina_testa": {
+  "w": 883,
+  "h": 1502,
+  "foot": 425.5
+ },
+ "padre_bracos_abertos": {
+  "w": 1003,
+  "h": 1512,
+  "foot": 492.0
+ },
+ "padre_costas": {
+  "w": 685,
+  "h": 1532,
+  "foot": 346.5
+ },
+ "padre_em_pe": {
+  "w": 671,
+  "h": 1516,
+  "foot": 335.5
+ },
+ "padre_ombro_direito": {
+  "w": 657,
+  "h": 1504,
+  "foot": 328.5
+ },
+ "padre_ombro_esquerdo": {
+  "w": 652,
+  "h": 1504,
+  "foot": 289.0
+ },
+ "padre_peito": {
+  "w": 690,
+  "h": 1527,
+  "foot": 323.5
+ },
+ "padre_testa": {
+  "w": 748,
+  "h": 1502,
+  "foot": 385.0
+ }
+}
