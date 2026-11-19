@@ -52,3 +52,9 @@ Primeiro teste (30 segundos): "Faça um filme de 30 segundos no estilo Crayon Pi
 - O Claude Code na web ainda não foi confirmado para renderizar vídeo — é o teste da Opção A.
 - A narração do AniDoodle precisa de ffmpeg e whisper.cpp para a conferência (`narrate.mjs check`).
 - As falas do episódio 1 ainda não estão escritas: o arquivo `episodio-01-sinal-da-cruz/narration.json` está com a estrutura pronta e as linhas vazias, para o Claude Code preencher a partir do roteiro. Não renderizar antes disso.
+
+## Reel avulso: Comunhão espiritual
+
+Pasta `reel-comunhao-espiritual/`. Reel vertical de cerca de 2 min, feito em código com a biblioteca Lemo Opuscar (renderizador, voz Kokoro, conferência com Whisper) e Three.js: capela escura com vitral, altar com velas, Hóstia com resplendor e coração de partículas de luz. Narração com o roteiro na íntegra (voz sintética pf_dora), legenda na tela, trilha de órgão e sinos sintetizada. Tratamento em `TREATMENT.md`, legenda do post em `legenda.txt`.
+
+Para gerar de novo: instalar a biblioteca (`claude plugin install lemo-opuscar@lemolab` ou clonar `lemomo-ai/lemo-opuscar` e rodar `sh plugin/skills/lemo-opuscar/scripts/setup.sh deps voice`) e depois `LIB=<pasta da biblioteca> sh reel-comunhao-espiritual/build.sh`. Para trocar a voz sintética por uma gravação real: gravar uma frase por arquivo, com os mesmos nomes (`voice/l01.wav` a `voice/l24.wav`, WAV PCM, frases em `lines.json`), pular o passo 1 do `build.sh` e rodar o resto. A linha do tempo, as legendas e a trilha se ajustam sozinhas às novas durações.

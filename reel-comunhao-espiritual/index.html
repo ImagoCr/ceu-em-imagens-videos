@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Comunhão espiritual (reel)</title>
+<style>
+@font-face { font-family: 'Garamond'; font-weight: 500; font-style: normal; src: url(fonts/eb-garamond-latin-500-normal.woff2) format('woff2'); }
+@font-face { font-family: 'Garamond'; font-weight: 500; font-style: italic; src: url(fonts/eb-garamond-latin-500-italic.woff2) format('woff2'); }
+@font-face { font-family: 'Garamond'; font-weight: 600; font-style: normal; src: url(fonts/eb-garamond-latin-600-normal.woff2) format('woff2'); }
+@font-face { font-family: 'Montserrat'; font-weight: 600; src: url(fonts/montserrat-latin-600-normal.woff2) format('woff2'); }
+@font-face { font-family: 'Montserrat'; font-weight: 800; src: url(fonts/montserrat-latin-800-normal.woff2) format('woff2'); }
+html, body { margin: 0; background: #000; overflow: hidden; }
+#stage { position: relative; width: 100vw; height: 100vh; }
+canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
+#vig { position: absolute; inset: 0; pointer-events: none;
+  background: radial-gradient(ellipse 85% 70% at 50% 45%, rgba(0,0,0,0) 55%, rgba(0,0,0,.55) 100%),
+              linear-gradient(to bottom, rgba(0,0,0,.72) 0%, rgba(0,0,0,.55) 22%, rgba(0,0,0,.2) 36%, rgba(0,0,0,0) 46%, rgba(0,0,0,0) 58%, rgba(0,0,0,.55) 72%, rgba(0,0,0,.75)); }
+#title { position: absolute; left: 0; right: 0; top: 15.5%; text-align: center; color: #f6e7c4; }
+#title .kicker { font: 600 34px/1 'Montserrat', sans-serif; letter-spacing: .32em; text-transform: uppercase; color: #e9b75a;
+  text-shadow: 0 0 18px rgba(233,183,90,.55); margin-bottom: 26px; }
+#title .main { font: 500 84px/1.08 'Garamond', serif; padding: 0 70px;
+  text-shadow: 0 2px 6px rgba(0,0,0,.9), 0 4px 30px rgba(0,0,0,.9); }
+#title .main em { font-style: italic; color: #ffe2a3; }
+#title.hook .main { font-size: 100px; }
+#list { position: absolute; left: 80px; right: 80px; top: 27%; padding: 48px 50px 10px; border-radius: 28px; background: rgba(10,6,3,.72); border: 2px solid rgba(233,183,90,.45); box-shadow: 0 10px 60px rgba(0,0,0,.6); }
+#list .it { display: flex; align-items: center; gap: 30px; margin: 0 0 44px; font: 500 52px/1.15 'Garamond', serif; color: #f3e6c8;
+  text-shadow: 0 2px 18px rgba(0,0,0,.9); }
+#list .dot { flex: none; width: 22px; height: 22px; border-radius: 50%; background: #ffd27a; box-shadow: 0 0 18px 6px rgba(255,200,100,.7); }
+#cap { position: absolute; left: 70px; right: 70px; top: 67.5%; text-align: center; font: 800 54px/1.22 'Montserrat', sans-serif; color: #fff;
+  text-shadow: 0 3px 0 rgba(0,0,0,.55), 0 0 22px rgba(0,0,0,.9); }
+#cta { position: absolute; left: 0; right: 0; top: 52%; text-align: center; }
+#cta .pill { display: inline-block; padding: 26px 54px; border-radius: 80px; border: 3px solid #e9b75a; color: #ffe9bd;
+  font: 800 46px/1 'Montserrat', sans-serif; letter-spacing: .02em; background: rgba(20,12,4,.55); box-shadow: 0 0 40px rgba(233,183,90,.35); }
+#cta .brand { display: inline-block; margin-top: 30px; padding: 14px 30px; border-radius: 40px; background: rgba(10,6,3,.7); font: 600 38px/1 'Montserrat', sans-serif; color: #e9d3a6; letter-spacing: .06em; }
+</style>
+<script type="importmap">
+{ "imports": { "three": "/node_modules/three/build/three.module.js", "three/addons/": "/node_modules/three/examples/jsm/" } }
+</script>
+</head>
+<body>
+<div id="stage">
+  <canvas id="gl"></canvas>
+  <div id="vig"></div>
+  <div id="title"><div class="kicker"></div><div class="main"></div></div>
+  <div id="list"></div>
+  <div id="cta"><div class="pill">Conta nos comentários</div><div class="brand">@ceuemimagens</div></div>
+  <div id="cap"></div>
+</div>
+<script type="module" src="film.js"></script>
+</body>
+</html>

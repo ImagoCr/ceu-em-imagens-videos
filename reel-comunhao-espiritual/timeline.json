@@ -1,0 +1,673 @@
+{
+ "dur": 122.26,
+ "lines": [
+  {
+   "id": "l01",
+   "scene": 1,
+   "text": "Com que idade você descobriu isso aqui?",
+   "t0": 1.4,
+   "t1": 3.746,
+   "caps": [
+    {
+     "t0": 1.4,
+     "t1": 3.032,
+     "text": "Com que idade você descobriu"
+    },
+    {
+     "t0": 3.032,
+     "t1": 3.746,
+     "text": "isso aqui?"
+    }
+   ]
+  },
+  {
+   "id": "l02",
+   "scene": 2,
+   "text": "A comunhão espiritual produz na alma os mesmos benefícios da comunhão sacramental, a comunhão por meio da Hóstia.",
+   "t0": 4.796,
+   "t1": 11.306,
+   "caps": [
+    {
+     "t0": 4.796,
+     "t1": 6.449,
+     "text": "A comunhão espiritual produz"
+    },
+    {
+     "t0": 6.449,
+     "t1": 8.103,
+     "text": "na alma os mesmos benefícios"
+    },
+    {
+     "t0": 8.103,
+     "t1": 9.549,
+     "text": "da comunhão sacramental,"
+    },
+    {
+     "t0": 9.549,
+     "t1": 11.306,
+     "text": "a comunhão por meio da Hóstia."
+    }
+   ]
+  },
+  {
+   "id": "l03",
+   "scene": 2,
+   "text": "E a gente já pode ensinar as crianças a fazer, desde pequenas.",
+   "t0": 11.686,
+   "t1": 15.454,
+   "caps": [
+    {
+     "t0": 11.686,
+     "t1": 13.361,
+     "text": "E a gente já pode ensinar as"
+    },
+    {
+     "t0": 13.361,
+     "t1": 14.46,
+     "text": "crianças a fazer,"
+    },
+    {
+     "t0": 14.46,
+     "t1": 15.454,
+     "text": "desde pequenas."
+    }
+   ]
+  },
+  {
+   "id": "l04",
+   "scene": 3,
+   "text": "O que é a comunhão espiritual?",
+   "t0": 16.504,
+   "t1": 18.351,
+   "caps": [
+    {
+     "t0": 16.504,
+     "t1": 18.351,
+     "text": "O que é a comunhão espiritual?"
+    }
+   ]
+  },
+  {
+   "id": "l05",
+   "scene": 3,
+   "text": "É você falar para Jesus, com todo o seu coração, com todo o seu entendimento, com toda a sua alma, que você gostaria de comungar agora.",
+   "t0": 18.731,
+   "t1": 26.049,
+   "caps": [
+    {
+     "t0": 18.731,
+     "t1": 20.088,
+     "text": "É você falar para Jesus,"
+    },
+    {
+     "t0": 20.088,
+     "t1": 21.396,
+     "text": "com todo o seu coração,"
+    },
+    {
+     "t0": 21.396,
+     "t1": 22.947,
+     "text": "com todo o seu entendimento,"
+    },
+    {
+     "t0": 22.947,
+     "t1": 24.11,
+     "text": "com toda a sua alma,"
+    },
+    {
+     "t0": 24.11,
+     "t1": 26.049,
+     "text": "que você gostaria de comungar agora."
+    }
+   ]
+  },
+  {
+   "id": "l06",
+   "scene": 3,
+   "text": "Mas, como agora não dá, você não está numa missa, ou ainda não está preparado, você quer recebê-lo na sua alma.",
+   "t0": 26.429,
+   "t1": 32.349,
+   "caps": [
+    {
+     "t0": 26.429,
+     "t1": 26.802,
+     "text": "Mas,"
+    },
+    {
+     "t0": 26.802,
+     "t1": 27.827,
+     "text": "como agora não dá,"
+    },
+    {
+     "t0": 27.827,
+     "t1": 29.179,
+     "text": "você não está numa missa,"
+    },
+    {
+     "t0": 29.179,
+     "t1": 30.671,
+     "text": "ou ainda não está preparado,"
+    },
+    {
+     "t0": 30.671,
+     "t1": 32.349,
+     "text": "você quer recebê-lo na sua alma."
+    }
+   ]
+  },
+  {
+   "id": "l07",
+   "scene": 3,
+   "text": "E pode ser uma oração espontânea, do seu jeito.",
+   "t0": 32.729,
+   "t1": 35.361,
+   "caps": [
+    {
+     "t0": 32.729,
+     "t1": 33.883,
+     "text": "E pode ser uma oração"
+    },
+    {
+     "t0": 33.883,
+     "t1": 34.576,
+     "text": "espontânea,"
+    },
+    {
+     "t0": 34.576,
+     "t1": 35.361,
+     "text": "do seu jeito."
+    }
+   ]
+  },
+  {
+   "id": "l08",
+   "scene": 4,
+   "text": "Aqui em casa eu ensino os meus filhos a fazer comunhão espiritual.",
+   "t0": 36.411,
+   "t1": 40.116,
+   "caps": [
+    {
+     "t0": 36.411,
+     "t1": 38.068,
+     "text": "Aqui em casa eu ensino os meus"
+    },
+    {
+     "t0": 38.068,
+     "t1": 39.385,
+     "text": "filhos a fazer comunhão"
+    },
+    {
+     "t0": 39.385,
+     "t1": 40.116,
+     "text": "espiritual."
+    }
+   ]
+  },
+  {
+   "id": "l09",
+   "scene": 4,
+   "text": "Até a minha filha de dois, três anos já fala: Jesus, vem morar no meu coração.",
+   "t0": 40.496,
+   "t1": 44.883,
+   "caps": [
+    {
+     "t0": 40.496,
+     "t1": 41.992,
+     "text": "Até a minha filha de dois,"
+    },
+    {
+     "t0": 41.992,
+     "t1": 43.437,
+     "text": "três anos já fala: Jesus,"
+    },
+    {
+     "t0": 43.437,
+     "t1": 44.883,
+     "text": "vem morar no meu coração."
+    }
+   ]
+  },
+  {
+   "id": "l10",
+   "scene": 4,
+   "text": "Isso já é comunhão espiritual.",
+   "t0": 45.263,
+   "t1": 47.136,
+   "caps": [
+    {
+     "t0": 45.263,
+     "t1": 47.136,
+     "text": "Isso já é comunhão espiritual."
+    }
+   ]
+  },
+  {
+   "id": "l11",
+   "scene": 5,
+   "text": "O adulto também pode: pode procurar na internet algumas outras fórmulas prontas, ou falar de forma espontânea:",
+   "t0": 48.186,
+   "t1": 54.679,
+   "caps": [
+    {
+     "t0": 48.186,
+     "t1": 49.474,
+     "text": "O adulto também pode:"
+    },
+    {
+     "t0": 49.474,
+     "t1": 50.969,
+     "text": "pode procurar na internet"
+    },
+    {
+     "t0": 50.969,
+     "t1": 52.36,
+     "text": "algumas outras fórmulas"
+    },
+    {
+     "t0": 52.36,
+     "t1": 52.978,
+     "text": "prontas,"
+    },
+    {
+     "t0": 52.978,
+     "t1": 54.679,
+     "text": "ou falar de forma espontânea:"
+    }
+   ]
+  },
+  {
+   "id": "l12",
+   "scene": 5,
+   "text": "Jesus, vem morar na minha alma, vem morar no meu coração.",
+   "t0": 55.059,
+   "t1": 58.179,
+   "caps": [
+    {
+     "t0": 55.059,
+     "t1": 55.525,
+     "text": "Jesus,"
+    },
+    {
+     "t0": 55.525,
+     "t1": 56.829,
+     "text": "vem morar na minha alma,"
+    },
+    {
+     "t0": 56.829,
+     "t1": 58.179,
+     "text": "vem morar no meu coração."
+    }
+   ]
+  },
+  {
+   "id": "l13",
+   "scene": 6,
+   "text": "Mas atenção: a comunhão espiritual não substitui a comunhão sacramental.",
+   "t0": 59.229,
+   "t1": 63.426,
+   "caps": [
+    {
+     "t0": 59.229,
+     "t1": 60.019,
+     "text": "Mas atenção:"
+    },
+    {
+     "t0": 60.019,
+     "t1": 61.451,
+     "text": "a comunhão espiritual não"
+    },
+    {
+     "t0": 61.451,
+     "t1": 62.636,
+     "text": "substitui a comunhão"
+    },
+    {
+     "t0": 62.636,
+     "t1": 63.426,
+     "text": "sacramental."
+    }
+   ]
+  },
+  {
+   "id": "l14",
+   "scene": 6,
+   "text": "Para o adulto que já tem entendimento da comunhão sacramental, a comunhão espiritual é justamente a oração que a gente faz falando para Deus que a gente quer comungar.",
+   "t0": 63.806,
+   "t1": 73.336,
+   "caps": [
+    {
+     "t0": 63.806,
+     "t1": 65.218,
+     "text": "Para o adulto que já tem"
+    },
+    {
+     "t0": 65.218,
+     "t1": 66.63,
+     "text": "entendimento da comunhão"
+    },
+    {
+     "t0": 66.63,
+     "t1": 67.436,
+     "text": "sacramental,"
+    },
+    {
+     "t0": 67.436,
+     "t1": 68.798,
+     "text": "a comunhão espiritual é"
+    },
+    {
+     "t0": 68.798,
+     "t1": 70.26,
+     "text": "justamente a oração que a"
+    },
+    {
+     "t0": 70.26,
+     "t1": 71.823,
+     "text": "gente faz falando para Deus"
+    },
+    {
+     "t0": 71.823,
+     "t1": 73.336,
+     "text": "que a gente quer comungar."
+    }
+   ]
+  },
+  {
+   "id": "l15",
+   "scene": 6,
+   "text": "Não é um: ah, eu quero, mas não quero me esforçar. Não.",
+   "t0": 73.716,
+   "t1": 76.361,
+   "caps": [
+    {
+     "t0": 73.716,
+     "t1": 74.408,
+     "text": "Não é um: ah,"
+    },
+    {
+     "t0": 74.408,
+     "t1": 74.937,
+     "text": "eu quero,"
+    },
+    {
+     "t0": 74.937,
+     "t1": 76.361,
+     "text": "mas não quero me esforçar. Não."
+    }
+   ]
+  },
+  {
+   "id": "l16",
+   "scene": 6,
+   "text": "É a oração falando: assim que eu puder, eu quero comungar. Esse é o sentido dela.",
+   "t0": 76.741,
+   "t1": 81.216,
+   "caps": [
+    {
+     "t0": 76.741,
+     "t1": 77.836,
+     "text": "É a oração falando:"
+    },
+    {
+     "t0": 77.836,
+     "t1": 78.931,
+     "text": "assim que eu puder,"
+    },
+    {
+     "t0": 78.931,
+     "t1": 79.978,
+     "text": "eu quero comungar."
+    },
+    {
+     "t0": 79.978,
+     "t1": 81.216,
+     "text": "Esse é o sentido dela."
+    }
+   ]
+  },
+  {
+   "id": "l17",
+   "scene": 7,
+   "text": "Quando é muito válido fazer comunhão espiritual?",
+   "t0": 82.266,
+   "t1": 84.888,
+   "caps": [
+    {
+     "t0": 82.266,
+     "t1": 83.744,
+     "text": "Quando é muito válido fazer"
+    },
+    {
+     "t0": 83.744,
+     "t1": 84.888,
+     "text": "comunhão espiritual?"
+    }
+   ]
+  },
+  {
+   "id": "l18",
+   "scene": 7,
+   "text": "Em todos os momentos do dia. Durante o dia inteiro você pode falar: Jesus, vem morar no meu coração.",
+   "t0": 85.268,
+   "t1": 91.148,
+   "caps": [
+    {
+     "t0": 85.268,
+     "t1": 86.933,
+     "text": "Em todos os momentos do dia."
+    },
+    {
+     "t0": 86.933,
+     "t1": 88.494,
+     "text": "Durante o dia inteiro você"
+    },
+    {
+     "t0": 88.494,
+     "t1": 89.639,
+     "text": "pode falar: Jesus,"
+    },
+    {
+     "t0": 89.639,
+     "t1": 91.148,
+     "text": "vem morar no meu coração."
+    }
+   ]
+  },
+  {
+   "id": "l19",
+   "scene": 7,
+   "text": "Quando você ainda não se confessou e está se preparando para confessar. É válido e é permitido.",
+   "t0": 91.528,
+   "t1": 96.683,
+   "caps": [
+    {
+     "t0": 91.528,
+     "t1": 92.864,
+     "text": "Quando você ainda não se"
+    },
+    {
+     "t0": 92.864,
+     "t1": 94.487,
+     "text": "confessou e está se preparando"
+    },
+    {
+     "t0": 94.487,
+     "t1": 95.394,
+     "text": "para confessar."
+    },
+    {
+     "t0": 95.394,
+     "t1": 96.683,
+     "text": "É válido e é permitido."
+    }
+   ]
+  },
+  {
+   "id": "l20",
+   "scene": 7,
+   "text": "Quando não tem missa perto de você agora e você está impedido, mas está se preparando para poder comungar.",
+   "t0": 97.063,
+   "t1": 102.867,
+   "caps": [
+    {
+     "t0": 97.063,
+     "t1": 98.633,
+     "text": "Quando não tem missa perto de"
+    },
+    {
+     "t0": 98.633,
+     "t1": 99.87,
+     "text": "você agora e você está"
+    },
+    {
+     "t0": 99.87,
+     "t1": 100.488,
+     "text": "impedido,"
+    },
+    {
+     "t0": 100.488,
+     "t1": 101.963,
+     "text": "mas está se preparando para"
+    },
+    {
+     "t0": 101.963,
+     "t1": 102.867,
+     "text": "poder comungar."
+    }
+   ]
+  },
+  {
+   "id": "l21",
+   "scene": 7,
+   "text": "E quando você quer mudar a sua vida para poder comungar.",
+   "t0": 103.247,
+   "t1": 106.281,
+   "caps": [
+    {
+     "t0": 103.247,
+     "t1": 104.884,
+     "text": "E quando você quer mudar a sua"
+    },
+    {
+     "t0": 104.884,
+     "t1": 106.281,
+     "text": "vida para poder comungar."
+    }
+   ]
+  },
+  {
+   "id": "l22",
+   "scene": 8,
+   "text": "Não é uma fórmula mágica. É o coração dizendo a Jesus: vem morar em mim.",
+   "t0": 107.331,
+   "t1": 111.45,
+   "caps": [
+    {
+     "t0": 107.331,
+     "t1": 108.788,
+     "text": "Não é uma fórmula mágica."
+    },
+    {
+     "t0": 108.788,
+     "t1": 110.395,
+     "text": "É o coração dizendo a Jesus:"
+    },
+    {
+     "t0": 110.395,
+     "t1": 111.45,
+     "text": "vem morar em mim."
+    }
+   ]
+  },
+  {
+   "id": "l23",
+   "scene": 8,
+   "text": "É um dos tesouros da nossa fé católica.",
+   "t0": 111.83,
+   "t1": 113.991,
+   "caps": [
+    {
+     "t0": 111.83,
+     "t1": 113.38,
+     "text": "É um dos tesouros da nossa fé"
+    },
+    {
+     "t0": 113.38,
+     "t1": 113.991,
+     "text": "católica."
+    }
+   ]
+  },
+  {
+   "id": "l24",
+   "scene": 9,
+   "text": "E você, com que idade descobriu isso aqui? Conta nos comentários.",
+   "t0": 115.041,
+   "t1": 118.66,
+   "caps": [
+    {
+     "t0": 115.041,
+     "t1": 115.572,
+     "text": "E você,"
+    },
+    {
+     "t0": 115.572,
+     "t1": 117.405,
+     "text": "com que idade descobriu isso aqui?"
+    },
+    {
+     "t0": 117.405,
+     "t1": 118.66,
+     "text": "Conta nos comentários."
+    }
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "scene": 1,
+   "t0": 0,
+   "t1": 4.196
+  },
+  {
+   "scene": 2,
+   "t0": 4.196,
+   "t1": 15.904
+  },
+  {
+   "scene": 3,
+   "t0": 15.904,
+   "t1": 35.811
+  },
+  {
+   "scene": 4,
+   "t0": 35.811,
+   "t1": 47.586
+  },
+  {
+   "scene": 5,
+   "t0": 47.586,
+   "t1": 58.629
+  },
+  {
+   "scene": 6,
+   "t0": 58.629,
+   "t1": 81.666
+  },
+  {
+   "scene": 7,
+   "t0": 81.666,
+   "t1": 106.731
+  },
+  {
+   "scene": 8,
+   "t0": 106.731,
+   "t1": 114.441
+  },
+  {
+   "scene": 9,
+   "t0": 114.441,
+   "t1": 122.26
+  }
+ ]
+}
